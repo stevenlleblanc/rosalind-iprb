@@ -1,3 +1,9 @@
+// Solution to rosalind.info/problems/iprb, "Mendel's First Law"
+// Given k, m, and n; where the total population is k+m+n; k are homozygous dominant,
+// m are heterozygous, and n are homozygous recessive, determine probabality of two randomly
+// selected organisms will produce an individual with a dominant allele (displaying the dominant
+// phenotype)
+
 #include <iostream>
 #include <fstream>
 #include <string>
